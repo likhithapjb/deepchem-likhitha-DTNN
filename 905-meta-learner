@@ -1,0 +1,11 @@
+# M etaLearner - Deepchem
+This module was added as a fix for [issue #905] (https://github.com/deepchem/deepchem/issues/905) in deepchem.
+## File: 'meta_learn.py'
+### Description
+Introduced a basic 'MetaLearner' class
+Contains:
+- '__init__()' for model configuration
+'train()'for training logic (to be extended)
+Ptedict()' for inference (to be extended)
+### Contribution
+Created by [Likhitha Narayana] as part of Gsoc 2025 application.
